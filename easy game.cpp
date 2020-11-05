@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-	printf("Test 1.00\n");
+	printf("Test 1.00\nDO NOT ENTER LETTER\n");
 	int hp = 100,atk = 30,def = 10,choice,round=0;
 	printf("Enemy A\n");
 	int enemyhp = 100,enemyatk = 15,enemydef = 10;
