@@ -22,6 +22,7 @@ int main(){
 		}
 			else{
 				printf("Please choose again\n");
+				round--;
 				continue;
 			}
 		printf("you are under attack\n");
