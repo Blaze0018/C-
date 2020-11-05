@@ -16,7 +16,7 @@ int main(){
 				break;
 			}
 		}
-		else if(choice = 2){
+		else if(choice == 2){
 			printf("You defended£¡\n");
 			def = def + 5;
 		}
